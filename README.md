@@ -5,6 +5,7 @@ This is a basic implementation of a house price prediction model, perfect for le
 This project is designed to predict house prices based on various features. The model is trained on a dataset containing relevant attributes of houses and their corresponding prices. 
 
 Key Features:
+
 Data preprocessing & feature engineering
 
 Regression model training
